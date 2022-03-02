@@ -1,0 +1,25 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;dateDebut;dateFin;version
+AGRI-EQ-101;AGRI;Equipement;Module d'intégration de température installé sur un ordinateur climatique;Module d'intégration de température installé sur un ordinateur climatique;true;true;2021-01-01;null;14
+AGRI-EQ-102;AGRI;Equipement;Double écran thermique;Double écran thermique;true;true;2021-01-01;null;14
+AGRI-EQ-104;AGRI;Equipement;Ecrans thermiques latéraux;Ecrans thermiques latéraux;true;true;2021-01-01;null;14
+AGRI-EQ-105;AGRI;Equipement;Stop & Start pour véhicules agricoles à moteur;Stop & Start pour véhicules agricoles à moteur;true;true;2021-01-01;null;28
+AGRI-EQ-106;AGRI;Equipement;Régulation de la ventilation des silos et des installations de stockage en vrac de céréales;Régulation de la ventilation des silos et des installations de stockage en vrac de céréales;true;true;2021-01-01;null;32
+AGRI-EQ-107;AGRI;Equipement;Isolation des parois de serre;Isolation des parois de serre;true;true;2021-01-01;null;38
+AGRI-EQ-108;AGRI;Equipement;Stockage d’eau pour une serre bioclimatique;Stockage d’eau pour une serre bioclimatique;true;true;2021-01-01;null;38
+AGRI-SE-101;AGRI;Services;Contrôle et préconisations de réglage du moteur d’un tracteur;Contrôle et préconisations de réglage du moteur d’un tracteur;true;true;2021-01-01;null;19
+AGRI-TH-101;AGRI;Thermique;"Dispositif de stockage d'eau chaude de type ""Open Buffer""";"Dispositif de stockage d'eau chaude de type ""Open Buffer""";true;true;2021-01-01;null;14
+AGRI-TH-102;AGRI;Thermique;Dispositif de stockage d'eau chaude;Dispositif de stockage d'eau chaude;true;true;2021-01-01;null;14
+AGRI-TH-103;AGRI;Thermique;Pré-refroidisseur de lait;Pré-refroidisseur de lait;true;true;2021-01-01;null;15
+AGRI-TH-104;AGRI;Thermique;Système de récupération de chaleur sur groupe de production de froid hors tanks à lait;Système de récupération de chaleur sur groupe de production de froid hors tanks à lait;true;true;2021-01-01;null;35
+AGRI-TH-105;AGRI;Thermique;Récupérateur de chaleur sur tank à lait;Récupérateur de chaleur sur tank à lait;true;true;2021-01-01;null;16
+AGRI-TH-108;AGRI;Thermique;Pompe à chaleur de type air/eau ou eau/eau;Pompe à chaleur de type air/eau ou eau/eau;true;true;2021-01-01;null;35
+AGRI-TH-109;AGRI;Thermique;Récupérateur de chaleur à condensation pour serres horticoles;Récupérateur de chaleur à condensation pour serres horticoles;true;true;2021-01-01;null;14
+AGRI-TH-110;AGRI;Thermique;Chaudière à condensation pour serres horticoles;Chaudière à condensation pour serres horticoles;true;true;2021-01-01;null;35
+AGRI-TH-113;AGRI;Thermique;Echangeur-récupérateur de chaleur air/air dans un bâtiment d'élevage de volailles;Echangeur-récupérateur de chaleur air/air dans un bâtiment d'élevage de volailles;true;true;2021-01-01;null;14
+AGRI-TH-117;AGRI;Thermique;Déshumidificateur thermodynamique pour serres;Déshumidificateur thermodynamique pour serres;true;true;2021-01-01;null;14
+AGRI-TH-118;AGRI;Thermique;Double tube de chauffage pour serres;Double tube de chauffage pour serres;true;true;2021-01-01;null;14
+AGRI-TH-119;AGRI;Thermique;Système de déshumidification avec air extérieur;Système de déshumidification avec air extérieur;true;true;2021-01-01;null;28
+AGRI-UT-101;AGRI;Utilités;Moto-variateur synchrone à aimants permanents ou à réluctance;Moto-variateur synchrone à aimants permanents ou à réluctance;true;true;2021-01-01;null;24
+AGRI-UT-102;AGRI;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;Système de variation électronique de vitesse sur un moteur asynchrone;true;true;2021-01-01;null;22
+AGRI-UT-103;AGRI;Utilités;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;true;true;2021-01-01;null;19
+AGRI-UT-104;AGRI;Utilités;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante;true;true;2021-01-01;null;23

@@ -1,0 +1,53 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;dateDebut;dateFin;version
+BAT-EN-101;BAT;Enveloppe;Isolation de combles ou de toitures (France métropolitaine);Isolation de combles ou de toitures (France métropolitaine);true;false;2021-01-01;null;33
+BAT-EN-102;BAT;Enveloppe;Isolation des murs (France métropolitaine);Isolation des murs (France métropolitaine);true;false;2021-01-01;null;27
+BAT-EN-103;BAT;Enveloppe;Isolation d'un plancher;Isolation d'un plancher;true;true;2021-01-01;null;33
+BAT-EN-104;BAT;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;Fenêtre ou porte-fenêtre complète avec vitrage isolant;true;true;2021-01-01;null;27
+BAT-EN-106;BAT;Enveloppe;Isolation de combles ou de toitures (France d’outre-mer);Isolation de combles ou de toitures (France d’outre-mer);false;true;2021-01-01;null;33
+BAT-EN-107;BAT;Enveloppe;Isolation des toitures-terrasses;Isolation des toitures-terrasses;true;true;2021-01-01;null;27
+BAT-EN-108;BAT;Enveloppe;Isolation des murs (France d’outre-mer);Isolation des murs (France d’outre-mer);false;true;2021-01-01;null;19
+BAT-EN-109;BAT;Enveloppe;Réduction des apports solaires par la toiture (France d’outre-mer);Réduction des apports solaires par la toiture (France d’outre-mer);false;true;2021-01-01;null;24
+BAT-EN-110;BAT;Enveloppe;Protections des baies contre le rayonnement solaire (France d'outre-mer);Protections des baies contre le rayonnement solaire (France d'outre-mer);false;true;2021-01-01;null;25
+BAT-EQ-117;BAT;Equipement;Installation frigorifique utilisant du CO2 subcritique ou transcritique;Installation frigorifique utilisant du CO2 subcritique ou transcritique;true;true;2021-01-01;null;24
+BAT-EQ-123;BAT;Equipement;Moto-variateur synchrone à aimants permanents ou à réluctance;Moto-variateur synchrone à aimants permanents ou à réluctance;true;true;2021-01-01;null;25
+BAT-EQ-124;BAT;Equipement;Fermeture des meubles frigorifiques de vente à température positive;Fermeture des meubles frigorifiques de vente à température positive;true;true;2021-01-01;null;15
+BAT-EQ-125;BAT;Equipement;Fermeture des meubles frigorifiques de vente à température négative;Fermeture des meubles frigorifiques de vente à température négative;true;true;2021-01-01;null;22
+BAT-EQ-127;BAT;Equipement;Luminaires d'éclairage général à modules LED;Luminaires d'éclairage général à modules LED;true;true;2021-01-01;null;35
+BAT-EQ-129;BAT;Equipement;Lanterneaux d'éclairage zénithal;Lanterneaux d'éclairage zénithal;true;false;2021-01-01;null;26
+BAT-EQ-130;BAT;Equipement;Système de condensation frigorifique à haute efficacité;Système de condensation frigorifique à haute efficacité;true;true;2021-01-01;null;22
+BAT-EQ-131;BAT;Equipement;Conduits de lumière naturelle;Conduits de lumière naturelle;true;true;2021-01-01;null;15
+BAT-EQ-133;BAT;Equipement;Systèmes hydro-économes (France métropolitaine);Systèmes hydro-économes (France métropolitaine);true;false;2021-01-01;null;17
+BAT-SE-103;BAT;Services;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;true;true;2021-01-01;null;19
+BAT-SE-104;BAT;Services;Contrat de Performance Energétique Services (CPE Services);Contrat de Performance Energétique Services (CPE Services);true;true;2021-01-01;null;31
+BAT-SE-105;BAT;Services;Abaissement de la température de retour vers un réseau de chaleur;Abaissement de la température de retour vers un réseau de chaleur;true;true;2021-01-01;null;32
+BAT-TH-102;BAT;Thermique;Chaudière collective à haute performance énergétique;Chaudière collective à haute performance énergétique;true;true;2021-01-01;null;28
+BAT-TH-103;BAT;Thermique;Plancher chauffant hydraulique à basse température;Plancher chauffant hydraulique à basse température;true;true;2021-01-01;null;31
+BAT-TH-104;BAT;Thermique;Robinet thermostatique;Robinet thermostatique;true;true;2021-01-01;null;32
+BAT-TH-105;BAT;Thermique;Radiateur basse température pour un chauffage central;Radiateur basse température pour un chauffage central;true;true;2021-01-01;null;32
+BAT-TH-108;BAT;Thermique;Système de régulation par programmation d’intermittence;Système de régulation par programmation d’intermittence;true;true;2021-01-01;null;22
+BAT-TH-109;BAT;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;true;true;2021-01-01;null;31
+BAT-TH-110;BAT;Thermique;Récupérateur de chaleur à condensation;Récupérateur de chaleur à condensation;true;true;2021-01-01;null;15
+BAT-TH-111;BAT;Thermique;Chauffe-eau solaire collectif (France métropolitaine);Chauffe-eau solaire collectif (France métropolitaine);true;false;2021-01-01;null;17
+BAT-TH-112;BAT;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;Système de variation électronique de vitesse sur un moteur asynchrone;true;true;2021-01-01;null;22
+BAT-TH-113;BAT;Thermique;Pompe à chaleur de type air/eau ou eau/eau;Pompe à chaleur de type air/eau ou eau/eau;true;true;2021-01-01;null;28
+BAT-TH-115;BAT;Thermique;Climatiseur performant (France d'outre-mer);Climatiseur performant (France d'outre-mer);false;true;2021-01-01;null;15
+BAT-TH-116;BAT;Thermique;Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire;Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire;true;true;2021-01-01;null;15
+BAT-TH-121;BAT;Thermique;Chauffe-eau solaire (France d'outre-mer);Chauffe-eau solaire (France d'outre-mer);false;true;2021-01-01;null;35
+BAT-TH-122;BAT;Thermique;Programmateur d’intermittence pour la climatisation (France d’outre-mer);Programmateur d’intermittence pour la climatisation (France d’outre-mer);false;true;2021-01-01;null;22
+BAT-TH-125;BAT;Thermique;Ventilation mécanique simple flux à débit d’air constant ou modulé;Ventilation mécanique simple flux à débit d’air constant ou modulé;true;true;2021-01-01;null;32
+BAT-TH-126;BAT;Thermique;Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé;Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé;true;true;2021-01-01;null;32
+BAT-TH-127;BAT;Thermique;Raccordement d’un bâtiment tertiaire à un réseau de chaleur;Raccordement d’un bâtiment tertiaire à un réseau de chaleur;true;true;2021-01-01;null;35
+BAT-TH-134;BAT;Thermique;Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine);Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine);true;false;2021-01-01;null;22
+BAT-TH-135;BAT;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;false;true;2021-01-01;null;26
+BAT-TH-139;BAT;Thermique;Récupération de chaleur sur groupe de production de froid;Récupération de chaleur sur groupe de production de froid;true;true;2021-01-01;null;35
+BAT-TH-140;BAT;Thermique;Pompe à chaleur à absorption de type air/eau ou eau/eau;Pompe à chaleur à absorption de type air/eau ou eau/eau;true;true;2021-01-01;null;28
+BAT-TH-141;BAT;Thermique;Pompe à chaleur à moteur gaz de type air/eau;Pompe à chaleur à moteur gaz de type air/eau;true;true;2021-01-01;null;28
+BAT-TH-142;BAT;Thermique;Déstratificateur ou brasseur d’air;Déstratificateur ou brasseur d’air;true;true;2021-01-01;null;38
+BAT-TH-143;BAT;Thermique;Ventilo-convecteurs haute performance;Ventilo-convecteurs haute performance;true;true;2021-01-01;null;16
+BAT-TH-145;BAT;Thermique;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante (France métropolitaine);Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante (France métropolitaine);true;false;2021-01-01;null;23
+BAT-TH-146;BAT;Thermique;Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire;Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire;true;true;2021-01-01;null;31
+BAT-TH-153;BAT;Thermique;Système de confinement des allées froides et allées chaudes dans un Data Center;Système de confinement des allées froides et allées chaudes dans un Data Center;true;true;2021-01-01;null;28
+BAT-TH-154;BAT;Thermique;Récupération instantanée de chaleur sur eaux grises;Récupération instantanée de chaleur sur eaux grises;true;true;2021-01-01;null;28
+BAT-TH-155;BAT;Thermique;Isolation de points singuliers d'un réseau;Isolation de points singuliers d'un réseau;true;true;2021-01-01;null;28
+BAT-TH-156;BAT;Thermique;Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation;Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation;true;true;2021-01-01;null;31
+BAT-TH-157;BAT;Thermique;Chaudière biomasse collective;Chaudière biomasse collective;true;true;2021-01-01;null;34

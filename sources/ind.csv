@@ -1,0 +1,35 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;dateDebut;dateFin;version
+IND-BA-110;IND;Bâtiments;Déstratificateur ou brasseur d'air;Déstratificateur ou brasseur d'air;true;true;2021-01-01;null;20
+IND-BA-112;IND;Bâtiments;Système de récupération de chaleur sur une tour aéroréfrigérante;Système de récupération de chaleur sur une tour aéroréfrigérante;true;true;2021-01-01;null;17
+IND-BA-113;IND;Bâtiments;Lanterneaux d'éclairage zénithal;Lanterneaux d'éclairage zénithal;true;false;2021-01-01;null;26
+IND-BA-114;IND;Bâtiments;Conduits de lumière naturelle;Conduits de lumière naturelle;true;true;2021-01-01;null;15
+IND-BA-116;IND;Bâtiments;Luminaires à modules LED;Luminaires à modules LED;true;true;2021-01-01;null;27
+IND-BA-117;IND;Bâtiments;Chauffage décentralisé performant;Chauffage décentralisé performant;true;true;2021-01-01;null;27
+IND-EN-101;IND;Enveloppe;Isolation des murs (France d’outre-mer);Isolation des murs (France d’outre-mer);false;true;2021-01-01;null;23
+IND-EN-102;IND;Enveloppe;Isolation de combles ou de toitures (France d’outre-mer);Isolation de combles ou de toitures (France d’outre-mer);false;true;2021-01-01;null;33
+IND-UT-102;IND;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;Système de variation électronique de vitesse sur un moteur asynchrone;true;true;2021-01-01;null;19
+IND-UT-103;IND;Utilités;Système de récupération de chaleur sur un compresseur d'air;Système de récupération de chaleur sur un compresseur d'air;true;true;2021-01-01;null;17
+IND-UT-104;IND;Utilités;Economiseur sur les effluents gazeux d'une chaudière de production de vapeur;Economiseur sur les effluents gazeux d'une chaudière de production de vapeur;true;true;2021-01-01;null;14
+IND-UT-105;IND;Utilités;Brûleur micro-modulant sur chaudière industrielle;Brûleur micro-modulant sur chaudière industrielle;true;true;2021-01-01;null;14
+IND-UT-112;IND;Utilités;Moteur haut rendement de classe IE2;Moteur haut rendement de classe IE2;true;true;2021-01-01;null;14
+IND-UT-113;IND;Utilités;Système de condensation frigorifique à haute efficacité;Système de condensation frigorifique à haute efficacité;true;true;2021-01-01;null;14
+IND-UT-114;IND;Utilités;Moto-variateur synchrone à aimants permanents ou à réluctance;Moto-variateur synchrone à aimants permanents ou à réluctance;true;true;2021-01-01;null;24
+IND-UT-115;IND;Utilités;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante;true;true;2021-01-01;null;15
+IND-UT-116;IND;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;true;true;2021-01-01;null;14
+IND-UT-117;IND;Utilités;Système de récupération de chaleur sur un groupe de production de froid;Système de récupération de chaleur sur un groupe de production de froid;true;true;2021-01-01;null;35
+IND-UT-118;IND;Utilités;Brûleur avec dispositif de récupération de chaleur sur four industriel;Brûleur avec dispositif de récupération de chaleur sur four industriel;true;true;2021-01-01;null;14
+IND-UT-120;IND;Utilités;Compresseur d'air basse pression à vis ou centrifuge;Compresseur d'air basse pression à vis ou centrifuge;true;true;2021-01-01;null;14
+IND-UT-121;IND;Utilités;Isolation de points singuliers d'un réseau;Isolation de points singuliers d'un réseau;true;true;2021-01-01;null;28
+IND-UT-122;IND;Utilités;Sécheur d'air comprimé à adsorption utilisant un apport calorifique pour sa régénération;Sécheur d'air comprimé à adsorption utilisant un apport calorifique pour sa régénération;true;true;2021-01-01;null;14
+IND-UT-123;IND;Utilités;Moteur premium de classe IE3;Moteur premium de classe IE3;true;true;2021-01-01;null;14
+IND-UT-124;IND;Utilités;Séquenceur électronique pour le pilotage d'une centrale de production d'air comprimé;Séquenceur électronique pour le pilotage d'une centrale de production d'air comprimé;true;true;2021-01-01;null;14
+IND-UT-125;IND;Utilités;Traitement d'eau performant sur chaudière de production de vapeur;Traitement d'eau performant sur chaudière de production de vapeur;true;true;2021-01-01;null;14
+IND-UT-127;IND;Utilités;Système de transmission performant;Système de transmission performant;true;true;2021-01-01;null;25
+IND-UT-129;IND;Utilités;Presse à injecter toute électrique ou hybride;Presse à injecter toute électrique ou hybride;true;true;2021-01-01;null;32
+IND-UT-130;IND;Utilités;Condenseur sur les effluents gazeux d’une chaudière de production de vapeur;Condenseur sur les effluents gazeux d’une chaudière de production de vapeur;true;true;2021-01-01;null;19
+IND-UT-131;IND;Utilités;Isolation thermique des parois planes ou cylindriques sur des installations industrielles;Isolation thermique des parois planes ou cylindriques sur des installations industrielles;true;true;2021-01-01;null;37
+IND-UT-132;IND;Utilités;Moteur asynchrone de classe IE4;Moteur asynchrone de classe IE4;true;true;2021-01-01;null;26
+IND-UT-133;IND;Utilités;Système électronique de pilotage d'un moteur électrique avec récupération d'énergie;Système électronique de pilotage d'un moteur électrique avec récupération d'énergie;true;true;2021-01-01;null;28
+IND-UT-134;IND;Utilités;Système de mesurage d’indicateurs de performance énergétique;Système de mesurage d’indicateurs de performance énergétique;true;true;2021-01-01;null;35
+IND-UT-135;IND;Utilités;Freecooling par eau de refroidissement en substitution d’un groupe froid;Freecooling par eau de refroidissement en substitution d’un groupe froid;true;true;2021-01-01;null;31
+IND-UT-136;IND;Utilités;Systèmes moto-régulés;Systèmes moto-régulés;true;true;2021-01-01;null;31

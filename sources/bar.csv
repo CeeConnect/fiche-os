@@ -1,0 +1,60 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;maison;appartement;immeuble;dateDebut;dateFin;version
+BAR-EN-101;BAR;Enveloppe;Isolation de combles ou de toitures (France métropolitaine);Isolation de combles ou de toitures;true;false;true;false;true;2021-01-01;null;33
+BAR-EN-102;BAR;Enveloppe;Isolation des murs (France métropolitaine);Isolation des murs;true;false;true;false;true;2021-01-01;null;14
+BAR-EN-103;BAR;Enveloppe;Isolation d'un plancher;Isolation d'un plancher;true;true;true;false;true;2021-01-01;null;36
+BAR-EN-104;BAR;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;Fenêtre ou porte-fenêtre complète avec vitrage isolant;true;true;true;true;true;2021-01-01;null;14
+BAR-EN-105;BAR;Enveloppe;Isolation des toitures terrasses;Isolation des toitures terrasses;true;true;true;false;true;2021-01-01;null;37
+BAR-EN-106;BAR;Enveloppe;Isolation de combles ou de toitures (France d’outre-mer);Isolation de combles ou de toitures;false;true;true;false;true;2021-01-01;null;33
+BAR-EN-107;BAR;Enveloppe;Isolation des murs (France d’outre-mer);Isolation des murs;false;true;true;false;true;2021-01-01;null;20
+BAR-EN-108;BAR;Enveloppe;Fermeture isolante;Fermeture isolante;true;true;true;true;true;2021-01-01;null;37
+BAR-EN-109;BAR;Enveloppe;Réduction des apports solaires par la toiture (France d’outre-mer);Réduction des apports solaires par la toiture;false;true;true;false;true;2021-01-01;null;24
+BAR-EN-110;BAR;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;true;true;true;true;true;2021-01-01;null;35
+BAR-EQ-102;BAR;Equipement;Lave-linge ménager de classe A++ ou A+++;Lave-linge ménager de classe A++ ou A+++;true;true;true;true;true;2021-01-01;null;15
+BAR-EQ-103;BAR;Equipement;Appareil de réfrigération ménager de classe A++ ou A+++;Appareil de réfrigération ménager de classe A++ ou A+++;true;true;true;true;true;2021-01-01;null;15
+BAR-EQ-110;BAR;Equipement;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;true;true;true;true;true;2021-01-01;null;15
+BAR-EQ-111;BAR;Equipement;Lampe de classe A++;Lampe de classe A++;true;true;true;true;true;2021-01-01;null;26
+BAR-EQ-115;BAR;Equipement;Dispositif d’affichage et d’interprétation des consommations d’énergie;Dispositif d’affichage et d’interprétation des consommations d’énergie;true;true;true;true;true;2021-01-01;null;28
+BAR-SE-104;BAR;Services;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude;true;true;false;false;true;2021-01-01;null;19
+BAR-SE-105;BAR;Services;Contrat de Performance Énergétique Services (CPE Services);Contrat de Performance Énergétique Services (CPE Services);true;true;false;false;true;2021-01-01;null;28
+BAR-SE-106;BAR;Services;Service de suivi des consommations d'énergie;Service de suivi des consommations d'énergie;true;true;true;true;false;2021-01-01;null;32
+BAR-SE-107;BAR;Services;Abaissement de la température de retour vers un réseau de chaleur;Abaissement de la température de retour vers un réseau de chaleur;true;false;true;true;true;2021-01-01;null;37
+BAR-TH-101;BAR;Thermique;Chauffe-eau solaire individuel (France métropolitaine);Chauffe-eau solaire individuel;true;false;true;false;false;2021-01-01;null;17
+BAR-TH-102;BAR;Thermique;Chauffe-eau solaire collectif (France métropolitaine);Chauffe-eau solaire collectif;true;false;false;false;true;2021-01-01;null;17
+BAR-TH-104;BAR;Thermique;Pompe à chaleur de type air/eau ou eau/eau;Pompe à chaleur de type air/eau ou eau/eau;true;true;true;true;false;2021-01-01;null;23
+BAR-TH-106;BAR;Thermique;Chaudière individuelle à haute performance énergétique;Chaudière individuelle à haute performance énergétique;true;true;true;true;false;2021-01-01;null;23
+BAR-TH-107;BAR;Thermique;Chaudière collective à haute performance énergétique;Chaudière collective à haute performance énergétique;true;true;false;false;true;2021-01-01;null;14
+BAR-TH-107-SE;BAR;Thermique;Chaudière collective à haute performance énergétique avec contrat assurant la conduite de l'installation;Chaudière collective à haute performance énergétique avec contrat assurant la conduite de l'installation;true;true;false;false;true;2021-01-01;null;14
+BAR-TH-110;BAR;Thermique;Radiateur basse température pour un chauffage central;Radiateur basse température pour un chauffage central;true;true;true;true;true;2021-01-01;null;16
+BAR-TH-111;BAR;Thermique;Régulation par sonde de température extérieure;Régulation par sonde de température extérieure;true;true;true;false;false;2021-01-01;null;17
+BAR-TH-112;BAR;Thermique;Appareil indépendant de chauffage au bois;Appareil indépendant de chauffage au bois;true;true;true;false;false;2021-01-01;null;35
+BAR-TH-113;BAR;Thermique;Chaudière biomasse individuelle;Chaudière biomasse individuelle;true;true;true;false;false;2021-01-01;null;37
+BAR-TH-116;BAR;Thermique;Plancher chauffant hydraulique à basse température;Plancher chauffant hydraulique à basse température;true;true;true;true;false;2021-01-01;null;17
+BAR-TH-117;BAR;Thermique;Robinet thermostatique;Robinet thermostatique;true;true;true;true;true;2021-01-01;null;14
+BAR-TH-118;BAR;Thermique;Système de régulation par programmation d'intermittence;Système de régulation par programmation d'intermittence;true;true;true;true;true;2021-01-01;null;14
+BAR-TH-122;BAR;Thermique;Récupérateur de chaleur à condensation;Récupérateur de chaleur à condensation;true;true;false;false;true;2021-01-01;null;15
+BAR-TH-123;BAR;Thermique;Optimiseur de relance en chauffage collectif;Optimiseur de relance en chauffage collectif;true;true;false;false;true;2021-01-01;null;17
+BAR-TH-124;BAR;Thermique;Chauffe-eau solaire individuel (France d'outre-mer);Chauffe-eau solaire individuel;false;true;true;false;false;2021-01-01;null;35
+BAR-TH-125;BAR;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);Système de ventilation double flux autoréglable ou modulé à haute performance;true;false;true;true;true;2021-01-01;null;36
+BAR-TH-127;BAR;Thermique;Ventilation Mécanique Contrôlée simple flux hygroréglable (France métropolitaine);Ventilation Mécanique Contrôlée simple flux hygroréglable;true;false;true;true;true;2021-01-01;null;36
+BAR-TH-129;BAR;Thermique;Pompe à chaleur de type air/air;Pompe à chaleur de type air/air;true;true;true;true;false;2021-01-01;null;27
+BAR-TH-130;BAR;Thermique;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);Surperformance énergétique pour un bâtiment neuf;true;false;true;true;true;2021-01-01;null;26
+BAR-TH-135;BAR;Thermique;Chauffe-eau solaire collectif (France d’outre-mer);Chauffe-eau solaire collectif;false;true;false;false;true;2021-01-01;null;14
+BAR-TH-137;BAR;Thermique;Raccordement d’un bâtiment résidentiel à un réseau de chaleur;Raccordement d’un bâtiment résidentiel à un réseau de chaleur;true;true;true;false;true;2021-01-01;null;35
+BAR-TH-139;BAR;Thermique;Système de variation électronique de vitesse sur une pompe;Système de variation électronique de vitesse sur une pompe;true;true;false;false;true;2021-01-01;null;23
+BAR-TH-141;BAR;Thermique;Climatiseur performant (France d'outre-mer);Climatiseur performant;false;true;true;true;true;2021-01-01;null;15
+BAR-TH-143;BAR;Thermique;Système solaire combiné (France métropolitaine);Système solaire combiné;true;false;true;false;false;2021-01-01;null;25
+BAR-TH-145;BAR;Thermique;Rénovation globale d’un bâtiment résidentiel collectif;Rénovation globale d’un bâtiment résidentiel collectif;true;false;false;false;true;2021-01-01;null;36
+BAR-TH-148;BAR;Thermique;Chauffe-eau thermodynamique à accumulation;Chauffe-eau thermodynamique à accumulation;true;true;true;true;true;2021-01-01;null;15
+BAR-TH-150;BAR;Thermique;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;true;true;false;false;true;2021-01-01;null;14
+BAR-TH-155;BAR;Thermique;Ventilation hybride hygroréglable (France métropolitaine);Ventilation hybride hygroréglable;true;false;false;false;true;2021-01-01;null;36
+BAR-TH-158;BAR;Thermique;Émetteur électrique à régulation électronique à fonctions avancées;Émetteur électrique à régulation électronique à fonctions avancées;true;true;true;true;true;2021-01-01;null;35
+BAR-TH-159;BAR;Thermique;Pompe à chaleur hybride individuelle;Pompe à chaleur hybride individuelle;true;true;true;true;false;2021-01-01;null;26
+BAR-TH-160;BAR;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;true;true;false;false;true;2021-01-01;null;27
+BAR-TH-161;BAR;Thermique;Isolation de points singuliers d'un réseau;Isolation de points singuliers d'un réseau;true;true;false;false;true;2021-01-01;null;28
+BAR-TH-162;BAR;Thermique;Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau (France métropolitaine);Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau;true;false;true;false;false;2021-01-01;null;28
+BAR-TH-163;BAR;Thermique;Conduit d’évacuation des produits de combustion;Conduit d’évacuation des produits de combustion;true;true;false;false;true;2021-01-01;null;38
+BAR-TH-164;BAR;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);Rénovation globale d'une maison individuelle;true;false;true;false;false;2021-01-01;null;36
+BAR-TH-165;BAR;Thermique;Chaudière biomasse collective;Chaudière biomasse collective;true;true;false;false;true;2021-01-01;null;34
+BAR-TH-166;BAR;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau;Pompe à chaleur collective de type air/eau ou eau/eau;true;true;false;false;true;2021-01-01;null;38
+BAR-TH-167;BAR;Thermique;Chauffe-bain individuel à haut rendement ou à condensation;Chauffe-bain individuel à haut rendement ou à condensation;true;false;true;true;true;2021-01-01;null;38
+BAR-TH-168;BAR;Thermique;Dispositif solaire thermique (France métropolitaine) ;Dispositif solaire thermique;true;false;true;false;false;2022-01-01;null;40

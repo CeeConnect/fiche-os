@@ -1,0 +1,13 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;dateDebut;dateFin;version
+RES-CH-101;RES;Chaleur et Froid;Valorisation de chaleur de récupération en réseau (France métropolitaine) (jusqu'au 31 mars 2020);Valorisation de chaleur de récupération en réseau (France métropolitaine) (jusqu'au 31 mars 2020);true;false;2021-01-01;null;16
+RES-CH-103;RES;Chaleur et Froid;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment tertiaire;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment tertiaire;true;true;2021-01-01;null;36
+RES-CH-104;RES;Chaleur et Froid;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment résidentiel;Réhabilitation d’un poste de livraison de chaleur d’un bâtiment résidentiel;true;true;2021-01-01;null;36
+RES-CH-105;RES;Chaleur et Froid;Passage d’un réseau de chaleur en basse température;Passage d’un réseau de chaleur en basse température;true;true;2021-01-01;null;36
+RES-CH-106;RES;Chaleur et Froid;Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur;Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur;true;true;2021-01-01;null;38
+RES-CH-107;RES;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;Isolation de points singuliers sur un réseau de chaleur;true;true;2021-01-01;null;36
+RES-CH-108;RES;Chaleur et Froid;Récupération de chaleur fatale pour valorisation vers un réseau de chaleur ou vers un tiers (France métropolitaine);Récupération de chaleur fatale pour valorisation vers un réseau de chaleur ou vers un tiers (France métropolitaine);true;false;2021-01-01;null;37
+RES-EC-101;RES;Eclairage;Système de régulation de tension en éclairage extérieur;Système de régulation de tension en éclairage extérieur;true;true;2021-01-01;null;14
+RES-EC-102;RES;Eclairage;Système de maîtrise de la puissance réactive en éclairage extérieur;Système de maîtrise de la puissance réactive en éclairage extérieur;true;true;2021-01-01;null;14
+RES-EC-103;RES;Eclairage;Système de variation de puissance en éclairage extérieur;Système de variation de puissance en éclairage extérieur;true;true;2021-01-01;null;14
+RES-EC-104;RES;Eclairage;Rénovation d'éclairage extérieur;Rénovation d'éclairage extérieur;true;true;2021-01-01;null;14
+RES-EC-107;RES;Eclairage;Horloge astronomique pour l'éclairage extérieur;Horloge astronomique pour l'éclairage extérieur;true;true;2021-01-01;null;14

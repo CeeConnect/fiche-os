@@ -1,0 +1,33 @@
+﻿code;secteur;sousSecteur;intitule;nom;metropole;dom;dateDebut;dateFin;version
+TRA-EQ-101;TRA;Equipement;Unité de transport intermodal pour le transport combiné rail-route;Unité de transport intermodal pour le transport combiné rail-route;true;true;2021-01-01;null;14
+TRA-EQ-103;TRA;Equipement;Télématique embarquée pour le suivi de la conduite d'un véhicule;Télématique embarquée pour le suivi de la conduite d'un véhicule;true;true;2021-01-01;null;14
+TRA-EQ-104;TRA;Equipement;Lubrifiant économiseur d'énergie pour véhicules légers;Lubrifiant économiseur d'énergie pour véhicules légers;true;true;2021-01-01;null;14
+TRA-EQ-106;TRA;Equipement;Pneus de véhicules légers à basse résistance au roulement;Pneus de véhicules légers à basse résistance au roulement;true;true;2021-01-01;null;14
+TRA-EQ-107;TRA;Equipement;Unité de transport intermodal pour le transport combiné fluvial-route;Unité de transport intermodal pour le transport combiné fluvial-route;true;true;2021-01-01;null;17
+TRA-EQ-108;TRA;Equipement;Wagon d'autoroute ferroviaire (jusqu'au 31 mars 2020);Wagon d'autoroute ferroviaire (jusqu'au 31 mars 2020);true;true;2021-01-01;null;28
+TRA-EQ-109;TRA;Equipement;Barge fluviale;Barge fluviale;true;true;2021-01-01;null;17
+TRA-EQ-110;TRA;Equipement;Automoteur fluvial;Automoteur fluvial;true;true;2021-01-01;null;19
+TRA-EQ-111;TRA;Equipement;Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi-remorques, remorques et caisse mobiles frigorifiques;Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi-remorques, remorques et caisse mobiles frigorifiques;true;true;2021-01-01;null;24
+TRA-EQ-113;TRA;Equipement;Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises;Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises;true;true;2021-01-01;null;14
+TRA-EQ-114;TRA;Equipement;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;true;true;2021-01-01;null;16
+TRA-EQ-115;TRA;Equipement;Véhicule de transport de marchandises optimisé;Véhicule de transport de marchandises optimisé;true;true;2021-01-01;null;14
+TRA-EQ-117;TRA;Equipement;Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités;Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités;true;true;2021-01-01;null;16
+TRA-EQ-118;TRA;Equipement;Lubrifiant économiseur d’énergie pour la pêche professionnelle;Lubrifiant économiseur d’énergie pour la pêche professionnelle;true;true;2021-01-01;null;15
+TRA-EQ-119;TRA;Equipement;Optimisation de la combustion et de la propreté des moteurs Diesel;Optimisation de la combustion et de la propreté des moteurs Diesel;true;true;2021-01-01;null;17
+TRA-EQ-120;TRA;Equipement;Hélice avec tuyère sur une unité de transport fluvial;Hélice avec tuyère sur une unité de transport fluvial;true;true;2021-01-01;null;27
+TRA-EQ-121;TRA;Equipement;Vélo à assistance électrique;Vélo à assistance électrique;true;true;2021-01-01;null;28
+TRA-EQ-122;TRA;Equipement;"""Stop & Start"" pour engins automoteurs non routiers neufs";"""Stop & Start"" pour engins automoteurs non routiers neufs";true;true;2021-01-01;null;32
+TRA-EQ-123;TRA;Equipement;Simulateur de conduite;Simulateur de conduite;true;true;2021-01-01;null;38
+TRA-EQ-124;TRA;Equipement;Branchement électrique des navires et bateaux à quai;Branchement électrique des navires et bateaux à quai;true;true;2021-01-01;null;35
+TRA-SE-101;TRA;Services;Formation d'un chauffeur de transport à la conduite économe;Formation d'un chauffeur de transport à la conduite économe;true;true;2021-01-01;null;14
+TRA-SE-102;TRA;Services;Formation d'un chauffeur de véhicule léger à la conduite économe;Formation d'un chauffeur de véhicule léger à la conduite économe;true;true;2021-01-01;null;14
+TRA-SE-104;TRA;Services;Station de gonflage des pneumatiques;Station de gonflage des pneumatiques;true;true;2021-01-01;null;14
+TRA-SE-105;TRA;Services;Recreusage des pneumatiques;Recreusage des pneumatiques;true;true;2021-01-01;null;14
+TRA-SE-106;TRA;Services;Mesure et optimisation des consommations de carburant d’une unité de transport fluvial;Mesure et optimisation des consommations de carburant d’une unité de transport fluvial;true;true;2021-01-01;null;19
+TRA-SE-107;TRA;Services;Carénage sur une unité de transport fluvial;Carénage sur une unité de transport fluvial;true;true;2021-01-01;null;19
+TRA-SE-108;TRA;Services;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);true;true;2021-01-01;null;14
+TRA-SE-109;TRA;Services;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes);Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes);true;true;2021-01-01;null;14
+TRA-SE-110;TRA;Services;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);true;true;2021-01-01;null;14
+TRA-SE-111;TRA;Services;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes);Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes);true;true;2021-01-01;null;14
+TRA-SE-112;TRA;Services;Service d’autopartage en boucle;Service d’autopartage en boucle;true;true;2021-01-01;null;15
+TRA-SE-113;TRA;Services;Suivi des consommations de carburants grâce à des cartes privatives;Suivi des consommations de carburants grâce à des cartes privatives;true;true;2021-01-01;null;14

@@ -1,0 +1,33 @@
+﻿fiche;domaine;complement;personneMorale;personnePhysique
+BAR-EN-101;95;NULL;true;true
+BAR-EN-101;98;NULL;true;true
+BAR-EN-102;95;Isolation par l'intérieur;false;true
+BAR-EN-102;96;Isolation par l'extérieur;false;true
+BAR-EN-103;99;NULL;true;true
+BAR-EN-104;93;Parois vitrées verticales;false;true
+BAR-EN-104;94;Parois virées en toiture;false;true
+BAR-EN-105;97;NULL;false;true
+BAR-EN-106;95;NULL;true;true
+BAR-EN-106;98;NULL;true;true
+BAR-EN-107;95;Isolation par l'intérieur;false;true
+BAR-EN-107;96;Isolation par l'extérieur;false;true
+BAR-EN-108;93;NULL;false;true
+BAR-EN-109;97;NULL;false;true
+BAR-EN-110;93;NULL;true;true
+BAR-TH-101;86;NULL;false;true
+BAR-TH-104;89;NULL;false;true
+BAR-TH-106;85;NULL;false;true
+BAR-TH-112;87;NULL;true;true
+BAR-TH-112;88;NULL;true;true
+BAR-TH-113;87;NULL;true;true
+BAR-TH-124;86;NULL;true;true
+BAR-TH-125;92;NULL;true;true
+BAR-TH-127;92;NULL;true;true
+BAR-TH-143;86;NULL;false;true
+BAR-TH-145;29;NULL;true;true
+BAR-TH-148;90;NULL;false;true
+BAR-TH-155;92;NULL;true;true
+BAR-TH-158;91;NULL;true;true
+BAR-TH-159;89;NULL;false;true
+BAR-TH-162;86;NULL;false;true
+BAR-TH-164;29;NULL;true;true
